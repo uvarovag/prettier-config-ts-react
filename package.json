@@ -1,0 +1,19 @@
+{
+    "name": "prettier-config-uvarovag",
+    "version": "1.0.1",
+    "main": "index.js",
+    "scripts": {
+        "login": "npm login",
+        "publish": "npm publish --access public",
+        "fix": "npm pkg fix"
+    },
+    "keywords": [],
+    "author": "uvarovag",
+    "license": "MIT",
+    "description": "prettier-config-uvarovag",
+    "homepage": "https://github.com/uvarovag/prettier-config-uvarovag/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/uvarovag/prettier-config-uvarovag.git"
+    }
+}
