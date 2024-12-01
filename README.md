@@ -1,15 +1,24 @@
-# prettier-config-uvarovag
+# prettier-config-ts-react
 
-## for use in project
+A shared Prettier configuration for TypeScript and React projects.
 
-### 1. install dependencies
+## Installation
+
+To use this configuration in your project, install the necessary dependencies:
 
 ```bash
-npm install --save-dev prettier-config-uvarovag prettier
+npm install --save-dev @uvarovag/prettier-config-ts-react prettier
 ```
 
-### 2. create .prettierrc
+## Usage
+
+### Step 1: Create a .prettierrc file
 
 ```json
-"prettier-config-uvarovag"
+"@uvarovag/prettier-config-ts-react"
+```
+
+### Step 2: Format your code
+```bash
+npx prettier --write '**/*.{ts,tsx,js,json,css,html,md}'
 ```

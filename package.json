@@ -1,20 +1,27 @@
 {
-    "name": "prettier-config-uvarovag",
-    "version": "1.0.2",
+    "name": "@uvarovag/prettier-config-ts-react",
+    "version": "1.0.0",
     "main": "index.js",
     "scripts": {
         "login": "npm login",
         "publish": "npm publish --access public",
         "fix": "npm pkg fix"
     },
-    "keywords": ["prettier", "prettier-config", "code-style", "formatting", "shared-config", "coding-standards"],
-    "author": "uvarovag",
+    "keywords": [
+        "prettier",
+        "prettier-config",
+        "code-style",
+        "formatting",
+        "shared-config",
+        "coding-standards"
+    ],
+    "author": "@uvarovag",
     "license": "MIT",
-    "description": "prettier-config-uvarovag",
-    "homepage": "https://github.com/uvarovag/prettier-config-uvarovag/blob/master/README.md",
+    "description": "prettier-config-ts-react",
+    "homepage": "https://github.com/uvarovag/prettier-config-ts-react/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/uvarovag/prettier-config-uvarovag.git"
+        "url": "git+https://github.com/uvarovag/prettier-config-ts-react.git"
     },
     "peerDependencies": {
         "prettier": "^3.4.1"
