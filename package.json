@@ -1,13 +1,13 @@
 {
     "name": "prettier-config-uvarovag",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "index.js",
     "scripts": {
         "login": "npm login",
         "publish": "npm publish --access public",
         "fix": "npm pkg fix"
     },
-    "keywords": [],
+    "keywords": ["prettier", "prettier-config", "code-style", "formatting", "shared-config", "coding-standards"],
     "author": "uvarovag",
     "license": "MIT",
     "description": "prettier-config-uvarovag",

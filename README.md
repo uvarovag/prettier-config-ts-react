@@ -11,7 +11,5 @@ npm install --save-dev prettier prettier-config-uvarovag
 ### 2. create .prettierrc
 
 ```json
-{
-    "extends": "prettier-config-uvarovag"
-}
+"prettier-config-uvarovag"
 ```
