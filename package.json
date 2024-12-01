@@ -15,5 +15,8 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/uvarovag/prettier-config-uvarovag.git"
+    },
+    "peerDependencies": {
+        "prettier": "^3.4.1"
     }
 }
